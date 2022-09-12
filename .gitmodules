@@ -1,0 +1,12 @@
+[submodule "Pepsi Landing Page"]
+	path = Pepsi Landing Page
+	url = https://github.com/ThomasJPrice/pepsi-landing-page.git
+[submodule "KFC Landing Page"]
+	path = KFC Landing Page
+	url = https://github.com/ThomasJPrice/kfc-landing-page.git
+[submodule "CocaCola Landing Page"]
+	path = CocaCola Landing Page
+	url = https://github.com/ThomasJPrice/cocacola-landing-page.git
+[submodule "Starbucks Landing Page"]
+	path = Starbucks Landing Page
+	url = https://github.com/ThomasJPrice/starbucks-landing-page.git
